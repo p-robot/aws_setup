@@ -1,8 +1,8 @@
 #!/bin/sh
 
+cd ~
 mkdir Projects
 cd Projects
-git clone https://github.com/p-robot/como_command_line
 git clone https://github.com/BDI-pathogens/OpenABM-Covid19
 
 
